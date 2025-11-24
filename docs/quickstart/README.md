@@ -40,6 +40,8 @@ git commit -m "Initial project setup with specifications"
 git push -u origin main
 ```
 
+> **Essential Reading:** [Git Safety for AI Development](../workflow/git-safety.md) — Why Git is your ultimate safety net when coding with AI. Covers pre-prompt commits, instant recovery, and the three critical mistakes to avoid.
+
 ## 🛠️ Phase 2: Development Environment Setup
 
 ### 4. Set Up Your Tech Stack

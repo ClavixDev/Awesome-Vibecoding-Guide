@@ -18,8 +18,9 @@ Vibecoding across five phases—from vibecoder preparation through deployment. T
 - [Phase 3: Testing, Debugging & Code Review](./phase-3-testing-debugging.md) - Automated testing, debugging, and code quality improvements
 - [Phase 4: Deployment](./phase-4-deployment.md) - CI/CD and production deployment
 
-## Additional Resources
-- [Git Strategies](./git-strategies.md) - Version control best practices for vibecoding workflows
+## Essential Practices
+- [Git Safety](./git-safety.md) - Protecting your work from AI coding disasters
+- [Git Strategies](./git-strategies.md) - Two-phase workflow for development and maintenance
   - Branching strategies for solo and team development
   - Commit message conventions
   - Collaboration workflows

@@ -2,6 +2,8 @@
 
 A practical, two-phase Git workflow optimized for AI-assisted development. This approach balances speed during initial development with stability during maintenance, proven effective across dozens of commercial projects.
 
+> **See also:** [Git Safety](./git-safety.md) for AI-specific disaster prevention practices—pre-prompt commits, instant recovery, and the three critical mistakes to avoid.
+
 ## Overview: Two-Phase Git Workflow
 
 **The Core Principle:**

@@ -38,6 +38,8 @@ Especially in the world of frontier models being **expensive** - usually it make
   - Reality Check • The Model • Pricing & Economics • Value Proposition
 - [Context Management 🧠](docs/context-management/README.md)
 - [Workflow & Process 🔄](docs/workflow/README.md)
+  - **Git Safety**: Protecting your work from AI coding disasters
+  - **Git Strategies**: Two-phase workflow for development and maintenance
   - Phase 0 (Vibecoder Preparation) + Phase 1–4 deep dives
 - [Mastering AI Prompts 🎯](docs/prompting/README.md)
   - **Foundations**: Anatomy of good prompts • Universal principles • Anti-patterns
