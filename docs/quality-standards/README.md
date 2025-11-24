@@ -25,7 +25,7 @@ Ensuring professional-grade quality in your vibecoding projects. This section co
 - Easy to find in search
 - Mobile-friendly
 
-## The Three Pillars
+## The Four Pillars
 
 ### 1. Accessibility (a11y)
 **[Complete Guide →](./accessibility.md)**
@@ -96,9 +96,57 @@ Optimize images and implement lazy loading.
 
 ---
 
+### 4. Design Consistency
+**[Complete Guide →](./design-consistency.md)**
+
+Preventing "vibe coded" appearance through systematic design and consistent patterns.
+
+**Key Elements:**
+- Spacing rhythm (8pt grid system)
+- Typography hierarchy
+- Component consistency
+- Border radius & elevation standards
+- Copy quality and content standards
+
+**Why It Matters:**
+- Visual polish justifies premium pricing
+- Differentiates from cheap/rushed work
+- Reduces client revision requests
+- Professional appearance builds trust
+- Consistent UX reduces confusion
+
+**Quick Win:**
+Establish design tokens and use them consistently throughout your project.
+
+---
+
+## Quality Gates
+
+**[Pre-Ship Checklist →](./quality-gates.md)**
+
+Before shipping any client project, use the Quality Gates checklist to catch common issues:
+
+**The Critical 7 (Non-Negotiable):**
+1. All interactive elements work
+2. Mobile responsive (375px minimum)
+3. Meta tags present
+4. No placeholder content
+5. Loading states on async actions
+6. Consistent spacing & alignment
+7. Real or zero testimonials
+
+**Project-Type Specific Gates:**
+- Local business websites
+- Landing pages / SaaS
+- Portfolio / personal sites
+
+**Time Investment:** 5-10 minutes prevents hours of post-delivery fixes.
+
+---
+
 ## How These Standards Relate
 
-The three quality pillars are interdependent and reinforce each other:
+The quality pillars are interdependent and reinforce each other:
 
 ### Accessibility → SEO
 - **Semantic HTML** improves search engine understanding
@@ -124,8 +172,20 @@ The three quality pillars are interdependent and reinforce each other:
 
 **Learn more:** [Accessibility Guide](./accessibility.md) → [Performance Guide](./performance.md)
 
-### The Quality Triangle
+### Design Consistency → All Pillars
+- **Systematic design** ensures accessibility standards are followed
+- **Clean, consistent code** improves performance
+- **Professional appearance** improves user engagement metrics (helps SEO)
+- **Component reuse** reduces code complexity and bugs
+
+**Learn more:** [Design Consistency Guide](./design-consistency.md)
+
+### The Quality Foundation
 ```
+       Design Consistency
+              |
+              |  (Systematic approach)
+              |
       Accessibility
           /   \
          /     \
@@ -134,7 +194,7 @@ The three quality pillars are interdependent and reinforce each other:
    SEO --------- Performance
 ```
 
-**Key Insight:** Improving any one pillar often improves the others. A fast, accessible site naturally ranks better in search engines.
+**Key Insight:** Design consistency provides the foundation for all other quality pillars. A systematic approach to design naturally leads to better accessibility, SEO, and performance. When you build with consistent patterns and standards, professional quality follows.
 
 ---
 
@@ -181,6 +241,21 @@ Before deploying any client website, ensure these standards are met:
 - [ ] Cloudflare caching configured
 - [ ] Total page size < 1MB
 - [ ] Loads in <3s on Fast 3G
+
+### Design Consistency ✅
+- [ ] Spacing follows 8pt grid system (no random values)
+- [ ] Border radius limited to 3-4 values, used consistently
+- [ ] Typography uses defined scale (max 6-8 sizes)
+- [ ] Colors from defined palette (no random purple/neon)
+- [ ] All components share core styling patterns
+- [ ] Hover effects subtle and don't break layout
+- [ ] Loading states on all async actions
+- [ ] All interactive elements functional
+- [ ] Copy specific (not generic taglines)
+- [ ] Testimonials real or omitted entirely
+- [ ] No placeholder content (lorem, test, TODO)
+
+**See also:** [Design Consistency Guide](./design-consistency.md) | [Quality Gates](./quality-gates.md)
 
 ---
 
@@ -584,11 +659,14 @@ This differentiates you from competitors and justifies your pricing.
 ---
 
 **Detailed Guides:**
-- [Accessibility Guide →](./accessibility.md)
-- [SEO Guide →](./seo.md)
-- [Performance Guide →](./performance.md)
+- [Accessibility Guide →](./accessibility.md) - WCAG compliance and inclusive design
+- [SEO Guide →](./seo.md) - Search engine optimization best practices
+- [Performance Guide →](./performance.md) - Speed optimization and Core Web Vitals
+- [Design Consistency Guide →](./design-consistency.md) - Preventing "vibe coded" appearance
+- [Quality Gates Checklist →](./quality-gates.md) - Pre-ship quality verification
 
 **Related Documentation:**
+- [Quality-Focused Prompts](../prompting/quality-focused-prompts.md) - AI prompts for professional output
 - [Testing Strategy](../workflow/phase-3-testing-debugging.md) - Quality assurance testing
 - [Client Management](../business-model/client-management.md) - Communicating quality value
 - [Core Technologies](../core-technologies.md) - Astro performance benefits

@@ -38,12 +38,13 @@ Quality improved: First output is production-ready
 
 **Level up:**
 1. [Advanced Techniques](./advanced-techniques.md) → Multi-step workflows, chaining
-2. [Task-Specific Patterns](./task-specific-patterns.md) → Specialized strategies
-3. [Template Library](./template-library.md) → Create your own template system
+2. [Quality-Focused Prompts](./quality-focused-prompts.md) → Professional output, prevent vibe coding
+3. [Task-Specific Patterns](./task-specific-patterns.md) → Specialized strategies
+4. [Template Library](./template-library.md) → Create your own template system
 
 ---
 
-## The Four Guides
+## The Five Guides
 
 ### 1. Foundations 📖
 
@@ -180,6 +181,48 @@ Quality improved: First output is production-ready
 
 **Read time:** ~15 minutes to browse, instant use
 **Impact:** Consistent, high-quality prompts without thinking
+
+---
+
+### 5. Quality-Focused Prompts 🎨
+
+**[→ Read Quality-Focused Prompts](./quality-focused-prompts.md)**
+
+**System prompts and quality checks that prevent "vibe coded" output:**
+
+```
+┌────────────────────────────────────────┐
+│  Quality Prompt Applications           │
+├────────────────────────────────────────┤
+│  Building components  → Quality system │
+│  Creating pages       → Page standards │
+│  Reviewing code       → Quality audit  │
+│  Client projects      → Professional   │
+│  Design consistency   → Prevent slop   │
+└────────────────────────────────────────┘
+```
+
+**Topics covered:**
+- Base quality system prompt (apply to any task)
+- Component-specific quality prompts
+- Page-level quality standards
+- Quality review and audit prompts
+- Tailwind-specific quality patterns
+- Copy quality prompts
+- Project-type specific prompts (local business, landing page, portfolio)
+
+**Each section includes:**
+- Ready-to-use prompt templates
+- Integration with existing prompts
+- Bad vs Good examples
+- Project-specific variations
+
+**Read time:** ~30 minutes (or jump to specific prompt type)
+**Impact:** Professional output from the start, justifies premium pricing
+
+**Why this matters:** AI defaults to "make it work" not "make it professional." Quality-focused prompts ensure your output looks intentional, consistent, and polished—differentiating your work from cheap "vibe coded" sites.
+
+**See also:** [Design Consistency Guide](../quality-standards/design-consistency.md) | [Quality Gates](../quality-standards/quality-gates.md)
 
 ---
 
@@ -366,6 +409,8 @@ Before sending any prompt, verify:
 │  Need template now      → Template Library │
 │  Specific task          → Task-Specific    │
 │  Complex scenario       → Advanced         │
+│  Client project         → Quality-Focused  │
+│  Prevent vibe coding    → Quality-Focused  │
 │  Large project planning → OpenSpec + Prompts│
 │  Debugging prompt issue → Foundations      │
 │  Optimizing workflow    → Advanced         │
@@ -484,6 +529,9 @@ Your Task:
 ### Related Vibecoding Guide Sections
 
 **Essential companions:**
+- [Quality Standards](../quality-standards/README.md) → Professional quality benchmarks
+- [Design Consistency](../quality-standards/design-consistency.md) → Preventing vibe coded appearance
+- [Quality Gates](../quality-standards/quality-gates.md) → Pre-ship checklist
 - [Context Management](../context-management/README.md) → Managing AI context effectively
 - [Troubleshooting Guide](../troubleshooting/README.md) → When things go wrong
 - [Development Workflow](../workflow/README.md) → Integrating prompts into workflow

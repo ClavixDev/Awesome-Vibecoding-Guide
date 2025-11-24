@@ -36,6 +36,10 @@ Especially in the world of frontier models being **expensive** - usually it make
 - [Business Model 💼](docs/business-model/README.md)
   - **Real Income Strategy**: Building websites for local businesses
   - Reality Check • The Model • Pricing & Economics • Value Proposition
+- [Quality Standards ⭐](docs/quality-standards/README.md)
+  - **Professional Quality**: Accessibility • SEO • Performance • Design Consistency
+  - **Pre-Ship Checklist**: Quality Gates for client projects
+  - Prevents "vibe coded" appearance • Justifies premium pricing
 - [Context Management 🧠](docs/context-management/README.md)
 - [Workflow & Process 🔄](docs/workflow/README.md)
   - **Git Safety**: Protecting your work from AI coding disasters
@@ -45,6 +49,7 @@ Especially in the world of frontier models being **expensive** - usually it make
   - **Foundations**: Anatomy of good prompts • Universal principles • Anti-patterns
   - **Task-Specific**: Feature dev • Debugging • Refactoring • Code review • Testing
   - **Advanced**: Multi-step workflows • Prompt chaining • Error recovery • Optimization
+  - **Quality-Focused**: Prevent "vibe coded" output • Professional standards • Client-ready prompts
   - **Templates**: 17 ready-to-use prompt templates for common scenarios
 - [Troubleshooting Guide 🔧](docs/troubleshooting/README.md)
   - **The Human Context Problem**: Why 95% of debugging issues are context failures
@@ -85,15 +90,18 @@ Especially in the world of frontier models being **expensive** - usually it make
 **Business Focus:**
 
 12. [Business Model](docs/business-model/README.md) → Making real money with vibecoding
-13. [Hosting Tools](docs/hosting-tools/README.md) → Cost-effective infrastructure
-14. [Context Management](docs/context-management/README.md) → Efficient workflows
+13. [Quality Standards](docs/quality-standards/README.md) → Professional quality justifies premium pricing
+14. [Hosting Tools](docs/hosting-tools/README.md) → Cost-effective infrastructure
+15. [Context Management](docs/context-management/README.md) → Efficient workflows
 
 **Quick Reference:**
 - [Cross-Reference Guide](docs/cross-reference.md) → Navigate between related topics and find connections
 - [Glossary](docs/glossary.md) → Key terms and definitions
 - [Troubleshooting](docs/troubleshooting/README.md) → Quick problem→solution lookup
 - [Human Context Debugging](docs/troubleshooting/human-context-debugging.md) → Fix 95% of debugging issues
+- [Quality Gates Checklist](docs/quality-standards/quality-gates.md) → Pre-ship quality verification
 - [Prompt Templates](docs/prompting/template-library.md) → Copy-paste ready prompts
+- [Quality-Focused Prompts](docs/prompting/quality-focused-prompts.md) → Professional AI output
 
 **Cheat Sheets:**
 - [Git Commands](docs/development-tools/cheat-sheets/git-commands.md) → Essential Git operations
