@@ -78,7 +78,7 @@ A comprehensive reference guide for all technical terms, concepts, and acronyms 
 
 **Terminal**: A text-based interface for interacting with your computer's operating system by typing commands.
 
-**TRAE**: A coding assistant tool with a prompt-based pricing model, offering good value but with limited context window.
+**TRAE**: An AI-powered development IDE with dual modes (IDE + SOLO). SOLO is broadly available to Pro users and enables end-to-end automation from PRD to preview/release. Trae includes built-in access to premium models (e.g., `Gemini-3-Pro-Preview`) and offers generous quotas (Pro: ~600 fast requests/month + unlimited slow), making it a strong value option; context limits remain model-dependent.
 
 **Traycer.ai**: An AI-powered development planning and validation tool (dropped from author's stack due to speed and cost issues).
 

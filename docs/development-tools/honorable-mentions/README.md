@@ -11,7 +11,7 @@ This section highlights tools that offer excellent value for developers seeking 
 - **[Qwen Coder / Qwen CLI](qwen-coder.md)** - Alibaba's free, open-source coding assistant with MCP support
 - **[Gemini CLI](gemini-cli.md)** - Google's CLI with generous free tier and strong reasoning
 - **[AmpCode](ampcode.md)** - Free tier coding assistance with MCP support
-- **[TRAE](trae.md)** - Cost-effective prompt-based pricing model
+- (Promoted) **TRAE** has moved to Recommended Tools: see [TRAE](../recommended-tools/trae.md)
 - **[Octofriend](octofriend.md)** - Open-source CLI with seamless Synthetic.new integration, excellent MCP support, and no rate limit headaches
 - **[Ghostty](ghostty.md)** - Fast, lightweight terminal emulator as an alternative to system defaults and Warp
 - **[iTerm2](iterm2.md)** - A powerful, customizable terminal emulator for macOS with AI integration.

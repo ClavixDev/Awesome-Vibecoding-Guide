@@ -12,6 +12,7 @@ Development tools optimized for vibecoding productivity:
 - **[Windsurf](./recommended-tools/windsurf.md)** — High-speed AI IDE with 950 tok/s SWE-1.5 agent
 - **[Clavix](./recommended-tools/clavix.md)** — CLEAR-based PRD generator with seamless task list creation
 - **[Warp](./recommended-tools/warp.md)** — Modern terminal for enhanced productivity
+- **[TRAE](./recommended-tools/trae.md)** — Unified IDE + SOLO automation, Gemini 3 support, generous quotas
 
 ### MCP Servers
 Model Context Protocol servers for enhanced capabilities:
@@ -32,7 +33,7 @@ Model Context Protocol servers for enhanced capabilities:
 ## Free & Alternative Options
 
 - **[Honorable Mentions](./honorable-mentions/README.md)** — Free alternatives and cost-effective options
-  - [Kilo Code](./honorable-mentions/kilocode.md) • [Qwen Coder](./honorable-mentions/qwen-coder.md) • [Gemini CLI](./honorable-mentions/gemini-cli.md) • [AmpCode](./honorable-mentions/ampcode.md) • [TRAE](./honorable-mentions/trae.md)
+  - [Kilo Code](./honorable-mentions/kilocode.md) • [Qwen Coder](./honorable-mentions/qwen-coder.md) • [Gemini CLI](./honorable-mentions/gemini-cli.md) • [AmpCode](./honorable-mentions/ampcode.md) • [Octofriend](./honorable-mentions/octofriend.md)
 
 ## Quick Start Guide
 

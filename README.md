@@ -18,12 +18,12 @@ Especially in the world of frontier models being **expensive** - usually it make
 
 ## Contents
 - [Development Tools 🛠️](docs/development-tools/README.md)
-  - **Recommended Tools**: Claude Code CLI • Droid CLI • Zed • Windsurf • Clavix (PRD Generator) • Warp
+  - **Recommended Tools**: Claude Code CLI • Droid CLI • Zed • Windsurf • Clavix (PRD Generator) • Warp • TRAE
   - **MCP Servers**: Context7 • DevTools • Sequential Thinking • Task Manager • Shadcn
   - **Additional**: Compatibility Guide
 - [Honorable Mentions 🏆](docs/development-tools/honorable-mentions/README.md)
   - **IDE-Native**: Kilo Code (VSCode + CLI)
-  - **Free & Cost-Effective**: Qwen Coder • Gemini CLI • AmpCode • TRAE • Octofriend
+  - **Free & Cost-Effective**: Qwen Coder • Gemini CLI • AmpCode • Octofriend
   - **Native Integration**: GitHub Copilot
   - **Tools I Dropped**: Traycer • GitHub Speckit • OpenSpec • Cline • Roo Code (VSCode plugins)
 - [AI Model Providers 🤖](docs/ai-model-providers/README.md)
