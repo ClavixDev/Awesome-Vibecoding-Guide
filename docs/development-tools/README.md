@@ -7,6 +7,7 @@ A comprehensive collection of development tools optimized for vibecoding product
 ### Recommended Tools
 Development tools optimized for vibecoding productivity:
 - **[Claude Code CLI](./recommended-tools/claude-code-cli.md)** — Primary coding agent with plan mode, multi-agent architecture, and global plan persistence
+- **[Mistral Vibe CLI](./recommended-tools/mistral-vibe-cli.md)** — Open-source coding agent powered by Devstral 2 (Free for now!)
 - **[Droid CLI](./recommended-tools/droid-cli.md)** — Spec-driven development agent for large projects and team coordination
 - **[Zed.dev](./recommended-tools/zed.md)** — Primary IDE for fast, modern development
 - **[Windsurf](./recommended-tools/windsurf.md)** — High-speed AI IDE with 950 tok/s SWE-1.5 agent

@@ -24,6 +24,7 @@ However, they all share common limitations that prevent me from recommending the
 - **[nanoGPT](nanogpt.md)** - Generous subscription limits and extensive model variety, but significant privacy concerns due to third-party routing; good as backup or for non-sensitive projects
 
 ### Development Platforms
+- **[Mistral AI](mistral-ai.md)** - Open-source champion with a unique "Experiment Plan" offering free API access in exchange for training data.
 - **[Factory AI](factory-ai.md)** - Cost-effective platform with intelligent caching and Droid CLI integration; good token efficiency but not recommended as primary provider
 
 ### Premium Services with Caveats

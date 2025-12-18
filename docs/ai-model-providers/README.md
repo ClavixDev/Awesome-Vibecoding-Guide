@@ -43,6 +43,7 @@ See the [detailed provider comparison](./choosing-your-provider.md) for comprehe
 ## Honorable Mentions
 Services I've used but don't recommend for primary development work:
 - **[Honorable Mentions](./honorable-mentions/README.md)** — Services with caveats, learning platforms, budget platforms, or over-expensive options
+  - Includes: [Mistral AI](./honorable-mentions/mistral-ai.md), [Chutes.ai](./honorable-mentions/chutes.ai.md), [OpenRouter](./honorable-mentions/openrouter.md), and more.
 
 These providers can be valuable for experimentation and learning, but have reliability, performance, or cost concerns (from too cheap/unreliable to prohibitively expensive) that make them unsuitable for serious professional development.
 

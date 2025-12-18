@@ -80,23 +80,23 @@ Cost-effectiveness = (Features you'll actually use × Reliability) / Total cost
 
 Detailed comparison of AI coding assistants:
 
-| Feature | Qwen CLI | GLM Lite / Pro | Claude Code | Cursor |
-|---------|----------|----------------|-------------|--------|
-| **Monthly Cost** | $0 | $3 / $15 | $200 | $20 |
-| **Annual Cost** | $0 | $36 / $180 | $2,400 | $240 |
-| **Model** | Qwen 2.5 72B | GLM-4.6 | Claude Sonnet 4 | Multiple |
-| **Local/Remote** | Remote (Factory API) | Remote (GLM API) | Remote (Anthropic) | Remote |
-| **Context Window** | 128k tokens | 128k tokens | 200k tokens | Varies |
-| **Code Quality** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| **Multi-file Editing** | ✅ Yes | ✅ Yes | ✅ Yes (best) | ✅ Yes |
-| **IDE Integration** | CLI only | CLI only | VS Code (official) | Built-in IDE |
-| **File Search** | ✅ Grep/glob | ✅ Grep/glob | ✅ Advanced | ✅ Advanced |
-| **Terminal Commands** | ✅ Yes | ✅ Yes | ✅ Yes | ✅ Yes |
-| **Git Integration** | Manual | Manual | Automatic | Automatic |
-| **Learning Curve** | Low | Low | Medium | Low |
-| **Offline Mode** | ❌ No | ❌ No | ❌ No | ❌ No |
-| **Rate Limits** | Generous | Moderate | Very generous | Varies by plan |
-| **BYOK (Bring Your Own Key)** | N/A | N/A | ❌ No | ✅ Yes |
+| Feature | Qwen CLI | Mistral Vibe | GLM Lite / Pro | Claude Code | Cursor |
+|---------|----------|--------------|----------------|-------------|--------|
+| **Monthly Cost** | $0 | $0 (Experiment) | $3 / $15 | $200 | $20 |
+| **Annual Cost** | $0 | $0 | $36 / $180 | $2,400 | $240 |
+| **Model** | Qwen 2.5 72B | Devstral 2 123B | GLM-4.6 | Claude Sonnet 4 | Multiple |
+| **Local/Remote** | Remote (Factory API) | Remote (Mistral API) | Remote (GLM API) | Remote (Anthropic) | Remote |
+| **Context Window** | 128k tokens | 256k tokens | 128k tokens | 200k tokens | Varies |
+| **Code Quality** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+| **Multi-file Editing** | ✅ Yes | ✅ Yes | ✅ Yes | ✅ Yes (best) | ✅ Yes |
+| **IDE Integration** | CLI only | Zed Extension | CLI only | VS Code (official) | Built-in IDE |
+| **File Search** | ✅ Grep/glob | ✅ Grep/glob | ✅ Grep/glob | ✅ Advanced | ✅ Advanced |
+| **Terminal Commands** | ✅ Yes | ✅ Yes | ✅ Yes | ✅ Yes | ✅ Yes |
+| **Git Integration** | Manual | Automatic | Manual | Automatic | Automatic |
+| **Learning Curve** | Low | Low | Low | Medium | Low |
+| **Offline Mode** | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
+| **Rate Limits** | Generous | Standard | Moderate | Very generous | Varies by plan |
+| **BYOK (Bring Your Own Key)** | N/A | ✅ Yes (Experiment) | N/A | ❌ No | ✅ Yes |
 
 ### Qwen CLI (Free via Factory AI)
 
@@ -321,6 +321,7 @@ Where to get API access for AI models:
 
 | Provider | Models | Pricing | Free Tier | Best For |
 |----------|--------|---------|-----------|----------|
+| **Mistral AI** | Devstral 2 (SOTA) | Free (Experiment) | ✅ Yes (Full) | Agentic workflows |
 | **Factory AI** | GLM-4.6, Qwen 2.5 | Pay-as-you-go | ✅ Yes (generous) | Budget developers |
 | **Synthetic AI** | Multiple SOTA models | Pay-as-you-go | ✅ Yes (moderate) | Multi-model access |
 | **GLM Direct** | GLM series | Subscription $15/mo | ❌ No | Direct GLM access |
